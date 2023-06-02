@@ -21,7 +21,7 @@ Developed by: S.ANUSHARON
 RegisterNumber: 212222240010
 
 import pandas as pd
-data=pd.read_csv('/content/Placement_Data.csv')
+data=pd.read_csv('/content/Placement_Data (1).csv')
 data.head()
 
 data1=data.copy()
@@ -82,7 +82,29 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![4 2](https://user-images.githubusercontent.com/119405600/237018324-96d2be7a-dfd6-4e39-9c37-078187436acf.png)
 
-![4 3](https://user-images.githubusercontent.com/119405600/237018337-db2fc141-522e-468a-b928-6848f06b82bf.png)
+![4 3](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/0cb3d1bc-84d2-44a4-80cd-572f204d166f)
+
+![4 4](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/c119733d-6f0b-4c21-9ea7-9fbc2dee8aef)
+
+![4 5](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/6f6cce4a-f0f5-4ef1-b42c-3bcc04d4391b)
+
+![4 6](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/26f536c6-3b37-4b0b-99f2-597ef390f2c9)
+
+![4 7](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/9bb15e17-e21b-4457-9b31-47d185b90013)
+
+![4 8](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/2ec47f9e-6d7c-4d12-bfa2-0cb280a55b4c)
+
+
+![4 9](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/f6cce6fa-2110-43f4-96fa-a7e43162a9bb)
+
+![4 10](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/b3a09a21-1c62-45c4-be00-dc1cb1abea04)
+
+![4 11](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/7179e1a2-4914-42af-afb8-675080fad31e)
+
+![4 12](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/adaacdc8-bde2-40e0-a629-352e10f6df5b)
+
+![4 13](https://github.com/Anusharonselva/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405600/d033a000-4399-4acd-8ade-94f79bc32956)
+
 
 
 ## Result:
